@@ -1,0 +1,782 @@
+Category,Topic,Repository,Owner,Repository_URL,Language,Stars
+Data Science,data-science,ML-For-Beginners,microsoft,https://github.com/microsoft/ML-For-Beginners,Jupyter Notebook,90095
+Data Science,data-science,superset,apache,https://github.com/apache/superset,Python,74613
+Data Science,data-science,30-Days-Of-Python,Asabeneh,https://github.com/Asabeneh/30-Days-Of-Python,Python,72764
+Data Science,data-science,scikit-learn,scikit-learn,https://github.com/scikit-learn/scikit-learn,Python,67153
+Data Science,data-science,keras,keras-team,https://github.com/keras-team/keras,Python,64274
+Data Science,data-science,pandas,pandas-dev,https://github.com/pandas-dev/pandas,Python,49629
+Data Science,data-science,Made-With-ML,GokuMohandas,https://github.com/GokuMohandas/Made-With-ML,Jupyter Notebook,49332
+Data Science,data-science,Summer2027-Internships,SimplifyJobs,https://github.com/SimplifyJobs/Summer2027-Internships,Python,47107
+Data Science,data-science,airflow,apache,https://github.com/apache/airflow,Python,46717
+Data Science,data-science,streamlit,streamlit,https://github.com/streamlit/streamlit,Python,45677
+Data Science,data-science,ray,ray-project,https://github.com/ray-project/ray,Python,43695
+Data Science,data-science,gradio,gradio-app,https://github.com/gradio-app/gradio,Python,43462
+Data Science,data-science,Data-Science-For-Beginners,microsoft,https://github.com/microsoft/Data-Science-For-Beginners,Jupyter Notebook,36836
+Data Science,data-science,500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code,ashishpatel26,https://github.com/ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code,Unknown,36706
+Data Science,data-science,spaCy,explosion,https://github.com/explosion/spaCy,Python,33872
+Data Science,data-science,ML-From-Scratch,eriklindernoren,https://github.com/eriklindernoren/ML-From-Scratch,Python,32592
+Data Science,data-science,pytorch-lightning,Lightning-AI,https://github.com/Lightning-AI/pytorch-lightning,Python,31316
+Data Science,data-science,AI-Expert-Roadmap,AMAI-GmbH,https://github.com/AMAI-GmbH/AI-Expert-Roadmap,JavaScript,31220
+Data Science,data-science,applied-ml,eugeneyan,https://github.com/eugeneyan/applied-ml,Unknown,30106
+Data Science,data-science,awesome-datascience,academic,https://github.com/academic/awesome-datascience,Unknown,29930
+Data Science,machine-learning,tensorflow,tensorflow,https://github.com/tensorflow/tensorflow,C++,198783
+Data Science,machine-learning,prompts.chat,f,https://github.com/f/prompts.chat,HTML,168885
+Data Science,machine-learning,transformers,huggingface,https://github.com/huggingface/transformers,Python,164747
+Data Science,machine-learning,LLMs-from-scratch,rasbt,https://github.com/rasbt/LLMs-from-scratch,Jupyter Notebook,104279
+Data Science,machine-learning,pytorch,pytorch,https://github.com/pytorch/pytorch,Python,102740
+Data Science,machine-learning,cs-video-courses,Developer-Y,https://github.com/Developer-Y/cs-video-courses,Unknown,83391
+Data Science,machine-learning,llm-course,mlabonne,https://github.com/mlabonne/llm-course,Unknown,82253
+Data Science,machine-learning,netdata,netdata,https://github.com/netdata/netdata,Go,80422
+Data Science,machine-learning,d2l-zh,d2l-ai,https://github.com/d2l-ai/d2l-zh,Python,80252
+Data Science,machine-learning,tesseract,tesseract-ocr,https://github.com/tesseract-ocr/tesseract,C++,76323
+Data Science,machine-learning,awesome-scalability,binhnguyennus,https://github.com/binhnguyennus/awesome-scalability,Unknown,73698
+Data Science,machine-learning,OpenBB,OpenBB-finance,https://github.com/OpenBB-finance/OpenBB,Python,72645
+Data Science,machine-learning,AI-For-Beginners,microsoft,https://github.com/microsoft/AI-For-Beginners,Jupyter Notebook,68024
+Data Science,machine-learning,annotated_deep_learning_paper_implementations,labmlai,https://github.com/labmlai/annotated_deep_learning_paper_implementations,Python,67390
+Data Science,machine-learning,ultralytics,ultralytics,https://github.com/ultralytics/ultralytics,Python,61251
+Data Science,machine-learning,llm-app,pathwaycom,https://github.com/pathwaycom/llm-app,Jupyter Notebook,58941
+Data Science,machine-learning,faceswap,deepfakes,https://github.com/deepfakes/faceswap,Python,57520
+Data Science,deep-learning,stable-diffusion-webui,AUTOMATIC1111,https://github.com/AUTOMATIC1111/stable-diffusion-webui,Python,164788
+Data Science,deep-learning,opencv,opencv,https://github.com/opencv/opencv,C++,90706
+Data Science,deep-learning,Prompt-Engineering-Guide,dair-ai,https://github.com/dair-ai/Prompt-Engineering-Guide,MDX,77994
+Data Science,deep-learning,Real-Time-Voice-Cloning,CorentinJ,https://github.com/CorentinJ/Real-Time-Voice-Cloning,Python,60122
+Data Science,deep-learning,yolov5,ultralytics,https://github.com/ultralytics/yolov5,Python,57963
+Data Science,deep-learning,ai-engineering-from-scratch,rohitg00,https://github.com/rohitg00/ai-engineering-from-scratch,Python,52253
+Data Science,deep-learning,100-Days-Of-ML-Code,Avik-Jain,https://github.com/Avik-Jain/100-Days-Of-ML-Code,Unknown,51704
+Data Science,deep-learning,supervision,roboflow,https://github.com/roboflow/supervision,Python,49863
+Data Science,artificial-intelligence,AutoGPT,Significant-Gravitas,https://github.com/Significant-Gravitas/AutoGPT,Python,187106
+Data Science,artificial-intelligence,Deep-Live-Cam,hacksider,https://github.com/hacksider/Deep-Live-Cam,Python,96477
+Data Science,artificial-intelligence,claude-mem,thedotmack,https://github.com/thedotmack/claude-mem,JavaScript,93095
+Data Science,artificial-intelligence,OpenHands,OpenHands,https://github.com/OpenHands/OpenHands,TypeScript,86080
+Data Science,artificial-intelligence,strix,usestrix,https://github.com/usestrix/strix,Python,60375
+Data Science,artificial-intelligence,minimind,jingyaogong,https://github.com/jingyaogong/minimind,Python,58206
+Data Science,artificial-intelligence,Flowise,FlowiseAI,https://github.com/FlowiseAI/Flowise,TypeScript,55405
+Data Science,artificial-intelligence,kong,Kong,https://github.com/Kong/kong,Lua,44080
+Data Science,artificial-intelligence,openhuman,tinyhumansai,https://github.com/tinyhumansai/openhuman,Rust,39390
+Data Science,artificial-intelligence,Vane,ItzCrazyKns,https://github.com/ItzCrazyKns/Vane,TypeScript,36601
+Data Science,artificial-intelligence,DragGAN,XingangPan,https://github.com/XingangPan/DragGAN,Python,35751
+Data Science,artificial-intelligence,fairseq,facebookresearch,https://github.com/facebookresearch/fairseq,Python,32230
+Data Science,artificial-intelligence,awesome-ai-agents,e2b-dev,https://github.com/e2b-dev/awesome-ai-agents,Unknown,29852
+Data Science,nlp,LlamaFactory,hiyouga,https://github.com/hiyouga/LlamaFactory,Python,74555
+Data Science,nlp,ailearning,apachecn,https://github.com/apachecn/ailearning,Python,42504
+Data Science,nlp,BettaFish,666ghj,https://github.com/666ghj/BettaFish,Python,42153
+Data Science,nlp,bert,google-research,https://github.com/google-research/bert,Python,40045
+Data Science,nlp,langextract,google,https://github.com/google/langextract,Python,38527
+Data Science,nlp,HanLP,hankcs,https://github.com/hankcs/HanLP,Python,36488
+Data Science,nlp,storm,stanford-oval,https://github.com/stanford-oval/storm,Python,31213
+Data Science,nlp,RAG_Techniques,NirDiamant,https://github.com/NirDiamant/RAG_Techniques,Jupyter Notebook,29353
+Data Science,nlp,best-of-ml-python,lukasmasuch,https://github.com/lukasmasuch/best-of-ml-python,Unknown,23775
+Data Science,nlp,CV,AccumulateMore,https://github.com/AccumulateMore/CV,Jupyter Notebook,23520
+Data Science,nlp,Awesome-Chinese-LLM,AiHubCN,https://github.com/AiHubCN/Awesome-Chinese-LLM,Unknown,22754
+Data Science,nlp,unilm,microsoft,https://github.com/microsoft/unilm,Python,22203
+Data Science,nlp,datasets,huggingface,https://github.com/huggingface/datasets,Python,21890
+Data Science,nlp,rasa,RasaHQ,https://github.com/RasaHQ/rasa,Python,21312
+Data Science,nlp,FinGPT,AI4Finance-Foundation,https://github.com/AI4Finance-Foundation/FinGPT,Jupyter Notebook,21206
+Data Science,computer-vision,mediapipe,google-ai-edge,https://github.com/google-ai-edge/mediapipe,C++,36826
+Data Science,computer-vision,openpose,CMU-Perceptual-Computing-Lab,https://github.com/CMU-Perceptual-Computing-Lab/openpose,C++,34422
+Data Science,computer-vision,d2l-en,d2l-ai,https://github.com/d2l-ai/d2l-en,Python,29518
+Data Science,computer-vision,label-studio,HumanSignal,https://github.com/HumanSignal/label-studio,TypeScript,28195
+Data Science,computer-vision,vit-pytorch,lucidrains,https://github.com/lucidrains/vit-pytorch,Python,25498
+Data Science,computer-vision,pytorch-CycleGAN-and-pix2pix,junyanz,https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix,Python,25237
+Data Science,computer-vision,gaussian-splatting,graphdeco-inria,https://github.com/graphdeco-inria/gaussian-splatting,Python,23725
+Data Science,computer-vision,learnopencv,spmallick,https://github.com/spmallick/learnopencv,Jupyter Notebook,23119
+Data Science,computer-vision,MaaAssistantArknights,MaaAssistantArknights,https://github.com/MaaAssistantArknights/MaaAssistantArknights,C++,22986
+Data Science,generative-ai,langflow,langflow-ai,https://github.com/langflow-ai/langflow,Python,154200
+Data Science,generative-ai,langchain,langchain-ai,https://github.com/langchain-ai/langchain,Python,145585
+Data Science,generative-ai,generative-ai-for-beginners,microsoft,https://github.com/microsoft/generative-ai-for-beginners,Jupyter Notebook,119086
+Data Science,generative-ai,ai-agents-for-beginners,microsoft,https://github.com/microsoft/ai-agents-for-beginners,Jupyter Notebook,73845
+Data Science,generative-ai,system_prompts_leaks,asgeirtj,https://github.com/asgeirtj/system_prompts_leaks,JavaScript,64111
+Data Science,generative-ai,langgraph,langchain-ai,https://github.com/langchain-ai/langgraph,Python,41000
+Data Science,generative-ai,airllm,lyogavin,https://github.com/lyogavin/airllm,Jupyter Notebook,33621
+Data Science,generative-ai,awesome-generative-ai-guide,aishwaryanr,https://github.com/aishwaryanr/awesome-generative-ai-guide,HTML,29226
+Data Science,generative-ai,repomix,yamadashy,https://github.com/yamadashy/repomix,TypeScript,28180
+Data Science,generative-ai,Open-Generative-AI,Anil-matcha,https://github.com/Anil-matcha/Open-Generative-AI,JavaScript,27659
+Data Science,generative-ai,blender-mcp,ahujasid,https://github.com/ahujasid/blender-mcp,Python,26730
+Data Science,generative-ai,ai,vercel,https://github.com/vercel/ai,TypeScript,26567
+Data Science,generative-ai,haystack,deepset-ai,https://github.com/deepset-ai/haystack,Python,26406
+Data Science,generative-ai,A2A,a2aproject,https://github.com/a2aproject/A2A,Shell,25618
+Data Science,generative-ai,GenAI_Agents,NirDiamant,https://github.com/NirDiamant/GenAI_Agents,Jupyter Notebook,24114
+Data Science,generative-ai,openui,wandb,https://github.com/wandb/openui,TypeScript,22535
+Data Science,llm,ECC,affaan-m,https://github.com/affaan-m/ECC,JavaScript,246977
+Data Science,llm,hermes-agent,NousResearch,https://github.com/NousResearch/hermes-agent,Python,240728
+Data Science,llm,ollama,ollama,https://github.com/ollama/ollama,Go,180061
+Data Science,llm,firecrawl,firecrawl,https://github.com/firecrawl/firecrawl,TypeScript,176077
+Data Science,llm,dify,langgenius,https://github.com/langgenius/dify,TypeScript,154356
+Data Science,llm,open-webui,open-webui,https://github.com/open-webui/open-webui,Python,150823
+Data Science,llm,ponytail,DietrichGebert,https://github.com/DietrichGebert/ponytail,JavaScript,123195
+Data Science,llm,MoneyPrinterTurbo,harry0703,https://github.com/harry0703/MoneyPrinterTurbo,Python,120194
+Data Science,llm,graphify,Graphify-Labs,https://github.com/Graphify-Labs/graphify,Python,114317
+Data Science,llm,browser-use,browser-use,https://github.com/browser-use/browser-use,Python,112176
+Data Science,llm,caveman,JuliusBrussee,https://github.com/JuliusBrussee/caveman,Go,103013
+Data Science,llm,TradingAgents,TauricResearch,https://github.com/TauricResearch/TradingAgents,Python,102411
+Data Science,llm,vllm,vllm-project,https://github.com/vllm-project/vllm,Python,90901
+Web Development,html,bootstrap,twbs,https://github.com/twbs/bootstrap,MDX,174713
+Web Development,html,30-seconds-of-code,Chalarangelo,https://github.com/Chalarangelo/30-seconds-of-code,JavaScript,128921
+Web Development,html,electron,electron,https://github.com/electron/electron,C++,122856
+Web Development,html,app-ideas,florinpop17,https://github.com/florinpop17/app-ideas,Unknown,97312
+Web Development,html,Web-Dev-For-Beginners,microsoft,https://github.com/microsoft/Web-Dev-For-Beginners,JavaScript,96585
+Web Development,html,storybook,storybookjs,https://github.com/storybookjs/storybook,TypeScript,90996
+Web Development,html,Front-End-Checklist,thedaviddias,https://github.com/thedaviddias/Front-End-Checklist,MDX,74023
+Web Development,html,docling,docling-project,https://github.com/docling-project/docling,Python,65952
+Web Development,html,rails,rails,https://github.com/rails/rails,Ruby,58748
+Web Development,html,html5-boilerplate,h5bp,https://github.com/h5bp/html5-boilerplate,JavaScript,57614
+Web Development,html,prettier,prettier,https://github.com/prettier/prettier,JavaScript,52233
+Web Development,html,bulma,jgthms,https://github.com/jgthms/bulma,CSS,50058
+Web Development,html,htmx,bigskysoftware,https://github.com/bigskysoftware/htmx,JavaScript,49335
+Web Development,html,30-Days-Of-JavaScript,Asabeneh,https://github.com/Asabeneh/30-Days-Of-JavaScript,JavaScript,46761
+Web Development,html,AdminLTE,ColorlibHQ,https://github.com/ColorlibHQ/AdminLTE,Astro,45569
+Web Development,html,hyper,vercel,https://github.com/vercel/hyper,TypeScript,44721
+Web Development,html,EasySpider,NaiboWang,https://github.com/NaiboWang/EasySpider,JavaScript,44500
+Web Development,html,parcel,parcel-bundler,https://github.com/parcel-bundler/parcel,JavaScript,44023
+Web Development,html,front-end-interview-handbook,yangshun,https://github.com/yangshun/front-end-interview-handbook,JavaScript,43997
+Web Development,html,hyperframes,heygen-com,https://github.com/heygen-com/hyperframes,TypeScript,43826
+Web Development,css,tailwindcss,tailwindlabs,https://github.com/tailwindlabs/tailwindcss,TypeScript,97436
+Web Development,css,animate.css,animate-css,https://github.com/animate-css/animate.css,CSS,82776
+Web Development,css,Font-Awesome,FortAwesome,https://github.com/FortAwesome/Font-Awesome,JavaScript,76900
+Web Development,css,anime,juliangarnier,https://github.com/juliangarnier/anime,JavaScript,72632
+Web Development,css,normalize.css,necolas,https://github.com/necolas/normalize.css,CSS,53519
+Web Development,css,daisyui,saadeghi,https://github.com/saadeghi/daisyui,JavaScript,42281
+Web Development,javascript,freeCodeCamp,freeCodeCamp,https://github.com/freeCodeCamp/freeCodeCamp,TypeScript,454959
+Web Development,javascript,project-based-learning,practical-tutorials,https://github.com/practical-tutorials/project-based-learning,Python,281963
+Web Development,javascript,react,react,https://github.com/react/react,JavaScript,249051
+Web Development,javascript,vue,vuejs,https://github.com/vuejs/vue,TypeScript,211625
+Web Development,javascript,javascript-algorithms,trekhleb,https://github.com/trekhleb/javascript-algorithms,JavaScript,196604
+Web Development,javascript,You-Dont-Know-JS,getify,https://github.com/getify/You-Dont-Know-JS,Unknown,184796
+Web Development,javascript,javascript,airbnb,https://github.com/airbnb/javascript,JavaScript,148142
+Web Development,javascript,node,nodejs,https://github.com/nodejs/node,JavaScript,120607
+Web Development,javascript,free-programming-books-zh_CN,justjavac,https://github.com/justjavac/free-programming-books-zh_CN,Unknown,118647
+Web Development,javascript,three.js,mrdoob,https://github.com/mrdoob/three.js,JavaScript,115079
+Web Development,javascript,immich,immich-app,https://github.com/immich-app/immich,TypeScript,113346
+Web Development,javascript,TypeScript,microsoft,https://github.com/microsoft/TypeScript,Go,110873
+Web Development,javascript,axios,axios,https://github.com/axios/axios,JavaScript,109191
+Web Development,javascript,deno,denoland,https://github.com/denoland/deno,Rust,108358
+Web Development,javascript,nodebestpractices,goldbergyoni,https://github.com/goldbergyoni/nodebestpractices,Dockerfile,105600
+Web Development,javascript,angular,angular,https://github.com/angular/angular,TypeScript,101005
+Web Development,react,next.js,vercel,https://github.com/vercel/next.js,JavaScript,142075
+Web Development,react,react-native,react,https://github.com/react/react-native,C++,126481
+Web Development,react,ui-ux-pro-max-skill,nextlevelbuilder,https://github.com/nextlevelbuilder/ui-ux-pro-max-skill,Python,124633
+Web Development,react,ui,shadcn-ui,https://github.com/shadcn-ui/ui,TypeScript,122932
+Web Development,react,create-react-app,react,https://github.com/react/create-react-app,JavaScript,103271
+Web Development,react,ant-design,ant-design,https://github.com/ant-design/ant-design,TypeScript,99375
+Web Development,react,material-ui,mui,https://github.com/mui/material-ui,JavaScript,98999
+Web Development,react,bun,oven-sh,https://github.com/oven-sh/bun,Rust,95871
+Web Development,react,RuView,ruvnet,https://github.com/ruvnet/RuView,Rust,92432
+Web Development,react,NextChat,ChatGPTNextWeb,https://github.com/ChatGPTNextWeb/NextChat,TypeScript,88697
+Web Development,react,awesome-react,enaqx,https://github.com/enaqx/awesome-react,Unknown,74478
+Web Development,react,33-js-concepts,leonardomso,https://github.com/leonardomso/33-js-concepts,JavaScript,66516
+Web Development,react,docusaurus,facebook,https://github.com/facebook/docusaurus,TypeScript,66168
+Web Development,react,memos,usememos,https://github.com/usememos/memos,Go,62751
+Web Development,react,plane,makeplane,https://github.com/makeplane/plane,TypeScript,58849
+Web Development,nodejs,nvm,nvm-sh,https://github.com/nvm-sh/nvm,Shell,94815
+Web Development,nodejs,deer-flow,bytedance,https://github.com/bytedance/deer-flow,Python,81316
+Web Development,nodejs,nest,nestjs,https://github.com/nestjs/nest,TypeScript,76565
+Web Development,nodejs,strapi,strapi,https://github.com/strapi/strapi,TypeScript,73064
+Web Development,nodejs,express,expressjs,https://github.com/expressjs/express,JavaScript,69417
+Web Development,nodejs,awesome-nodejs,sindresorhus,https://github.com/sindresorhus/awesome-nodejs,Unknown,66693
+Web Development,nodejs,socket.io,socketio,https://github.com/socketio/socket.io,TypeScript,63206
+Web Development,nodejs,coolify,coollabsio,https://github.com/coollabsio/coolify,PHP,61364
+Web Development,nodejs,joplin,laurent22,https://github.com/laurent22/joplin,TypeScript,56228
+Web Development,nodejs,Ghost,TryGhost,https://github.com/TryGhost/Ghost,JavaScript,55148
+Web Development,nodejs,orm,prisma,https://github.com/prisma/orm,TypeScript,47594
+Cybersecurity,cybersecurity,sherlock,sherlock-project,https://github.com/sherlock-project/sherlock,Python,90897
+Cybersecurity,cybersecurity,ImHex,WerWolv,https://github.com/WerWolv/ImHex,C++,54670
+Cybersecurity,cybersecurity,x64dbg,x64dbg,https://github.com/x64dbg/x64dbg,C++,49387
+Cybersecurity,cybersecurity,shannon,KeygraphHQ,https://github.com/KeygraphHQ/shannon,TypeScript,47688
+Cybersecurity,cybersecurity,maigret,soxoj,https://github.com/soxoj/maigret,Python,37274
+Cybersecurity,cybersecurity,Anthropic-Cybersecurity-Skills,mukul975,https://github.com/mukul975/Anthropic-Cybersecurity-Skills,Python,32107
+Cybersecurity,cybersecurity,h4cker,The-Art-of-Hacking,https://github.com/The-Art-of-Hacking/h4cker,Jupyter Notebook,29259
+Cybersecurity,cybersecurity,SafeLine,chaitin,https://github.com/chaitin/SafeLine,Go,22485
+Cybersecurity,cybersecurity,personal-security-checklist,lissy93,https://github.com/lissy93/personal-security-checklist,TypeScript,22244
+Cybersecurity,cybersecurity,spiderfoot,smicallef,https://github.com/smicallef/spiderfoot,Python,21702
+Cybersecurity,cybersecurity,L1B3RT4S,elder-plinius,https://github.com/elder-plinius/L1B3RT4S,Unknown,21318
+Cybersecurity,cybersecurity,SWE-agent,SWE-agent,https://github.com/SWE-agent/SWE-agent,Python,20211
+Cybersecurity,cybersecurity,90DaysOfCyberSecurity,farhanashrafdev,https://github.com/farhanashrafdev/90DaysOfCyberSecurity,Unknown,18990
+Cybersecurity,cybersecurity,wazuh,wazuh,https://github.com/wazuh/wazuh,C++,16760
+Cybersecurity,cybersecurity,GhostTrack,HunxByts,https://github.com/HunxByts/GhostTrack,Python,14985
+Cybersecurity,cybersecurity,Reverse-Engineering,mytechnotalent,https://github.com/mytechnotalent/Reverse-Engineering,Assembly,14231
+Cybersecurity,cybersecurity,opennhp,OpenNHP,https://github.com/OpenNHP/opennhp,Go,13922
+Cybersecurity,cybersecurity,vuls,future-architect,https://github.com/future-architect/vuls,Go,12250
+Cybersecurity,cybersecurity,test-your-sysadmin-skills,trimstray,https://github.com/trimstray/test-your-sysadmin-skills,Unknown,11846
+Cybersecurity,malware,hosts,StevenBlack,https://github.com/StevenBlack/hosts,Python,30989
+Cybersecurity,malware,dns-blocklists,hagezi,https://github.com/hagezi/dns-blocklists,Text,25913
+Cybersecurity,malware,MalwareSourceCode,vxunderground,https://github.com/vxunderground/MalwareSourceCode,Assembly,18698
+Cybersecurity,malware,Awesome-Hacking-Resources,vitalysim,https://github.com/vitalysim/Awesome-Hacking-Resources,Unknown,17372
+Cybersecurity,malware,wifiphisher,wifiphisher,https://github.com/wifiphisher/wifiphisher,Python,14813
+Cybersecurity,malware,theZoo,ytisf,https://github.com/ytisf/theZoo,Python,13351
+Cybersecurity,malware,TheFatRat,screetsec,https://github.com/screetsec/TheFatRat,C,11458
+Cybersecurity,malware,maltrail,stamparm,https://github.com/stamparm/maltrail,Python,8595
+Cybersecurity,malware,volatility,volatilityfoundation,https://github.com/volatilityfoundation/volatility,Python,8063
+Cybersecurity,malware,pyWhat,bee-san,https://github.com/bee-san/pyWhat,Python,7320
+Cybersecurity,malware,al-khaser,ayoubfaouzi,https://github.com/ayoubfaouzi/al-khaser,C++,7117
+Cybersecurity,malware,qiling,qilingframework,https://github.com/qilingframework/qiling,Python,6087
+Cybersecurity,malware,nginx-ultimate-bad-bot-blocker,mitchellkrogza,https://github.com/mitchellkrogza/nginx-ultimate-bad-bot-blocker,Shell,4786
+Cybersecurity,malware,simplify,CalebFenton,https://github.com/CalebFenton/simplify,Java,4659
+Cybersecurity,malware,volatility3,volatilityfoundation,https://github.com/volatilityfoundation/volatility3,Python,4372
+Cybersecurity,malware,flare-floss,mandiant,https://github.com/mandiant/flare-floss,Python,4145
+Cybersecurity,malware,malwoverview,alexandreborges,https://github.com/alexandreborges/malwoverview,Python,4080
+Cybersecurity,malware,awesome-hacking,jekil,https://github.com/jekil/awesome-hacking,Python,3965
+Cybersecurity,malware,pafish,a0rtega,https://github.com/a0rtega/pafish,C,3944
+Cybersecurity,pentesting,sqlmap,sqlmapproject,https://github.com/sqlmapproject/sqlmap,Python,38353
+Cybersecurity,pentesting,promptfoo,promptfoo,https://github.com/promptfoo/promptfoo,TypeScript,24789
+Cybersecurity,pentesting,social-analyzer,qeeqbox,https://github.com/qeeqbox/social-analyzer,JavaScript,23928
+Cybersecurity,pentesting,Ciphey,bee-san,https://github.com/bee-san/Ciphey,Rust,21589
+Cybersecurity,pentesting,RustScan,bee-san,https://github.com/bee-san/RustScan,Rust,20360
+Cybersecurity,pentesting,ffuf,ffuf,https://github.com/ffuf/ffuf,Go,16633
+Cybersecurity,pentesting,hacker-roadmap,sundowndev,https://github.com/sundowndev/hacker-roadmap,Unknown,15574
+Cybersecurity,pentesting,dirsearch,maurosoria,https://github.com/maurosoria/dirsearch,Python,14686
+Cybersecurity,pentesting,gobuster,OJ,https://github.com/OJ/gobuster,Go,14074
+Cybersecurity,pentesting,juice-shop,juice-shop,https://github.com/juice-shop/juice-shop,TypeScript,13779
+Cybersecurity,pentesting,mastg,OWASP,https://github.com/OWASP/mastg,Python,13154
+Cybersecurity,pentesting,thc-hydra,vanhauser-thc,https://github.com/vanhauser-thc/thc-hydra,C,12227
+Cybersecurity,pentesting,hacktricks,HackTricks-wiki,https://github.com/HackTricks-wiki/hacktricks,CSS,12215
+Cybersecurity,pentesting,hetty,dstotijn,https://github.com/dstotijn/hetty,Go,12011
+Cybersecurity,pentesting,hexstrike-ai,0x4m4,https://github.com/0x4m4/hexstrike-ai,Python,11525
+Cybersecurity,security-tools,trivy,aquasecurity,https://github.com/aquasecurity/trivy,Go,37769
+Cybersecurity,security-tools,web-check,lissy93,https://github.com/lissy93/web-check,TypeScript,34668
+Cybersecurity,security-tools,infisical,Infisical,https://github.com/Infisical/infisical,TypeScript,29102
+Cybersecurity,security-tools,gitleaks,gitleaks,https://github.com/gitleaks/gitleaks,Go,29090
+Cybersecurity,security-tools,trufflehog,trufflesecurity,https://github.com/trufflesecurity/trufflehog,Go,27673
+Cybersecurity,security-tools,pentagi,vxcontrol,https://github.com/vxcontrol/pentagi,Go,22270
+Cybersecurity,security-tools,dotenv,motdotla,https://github.com/motdotla/dotenv,JavaScript,20530
+Cybersecurity,security-tools,fail2ban,fail2ban,https://github.com/fail2ban/fail2ban,Python,18534
+Cybersecurity,security-tools,lynis,CISOfy,https://github.com/CISOfy/lynis,Shell,16277
+Cybersecurity,security-tools,SkillSpector,NVIDIA,https://github.com/NVIDIA/SkillSpector,Python,15851
+Cybersecurity,security-tools,prowler,prowler-cloud,https://github.com/prowler-cloud/prowler,Python,14748
+Cybersecurity,security-tools,fscan,shadow1ng,https://github.com/shadow1ng/fscan,Go,14501
+Cybersecurity,security-tools,scapy,secdev,https://github.com/secdev/scapy,Python,12517
+Full Stack,mern,mern-ecommerce,mohamedsamara,https://github.com/mohamedsamara/mern-ecommerce,JavaScript,1978
+Full Stack,mern,mern-course-bootcamp,jeanrauwers,https://github.com/jeanrauwers/mern-course-bootcamp,JavaScript,1136
+Full Stack,mern,mern-social,shamahoque,https://github.com/shamahoque/mern-social,JavaScript,835
+Full Stack,mern,mern-crud,cefjoeii,https://github.com/cefjoeii/mern-crud,JavaScript,766
+Full Stack,mern,instagram-mern,jigar-sable,https://github.com/jigar-sable/instagram-mern,JavaScript,679
+Full Stack,mern,MERN-School-Management-System,Yogndrr,https://github.com/Yogndrr/MERN-School-Management-System,JavaScript,645
+Full Stack,mern,bookcars,aelassas,https://github.com/aelassas/bookcars,TypeScript,628
+Full Stack,mern,digitomize,digitomize,https://github.com/digitomize/digitomize,JavaScript,601
+Full Stack,mern,mern-marketplace,shamahoque,https://github.com/shamahoque/mern-marketplace,JavaScript,595
+Full Stack,mern,mern,amazingandyyy,https://github.com/amazingandyyy/mern,JavaScript,574
+Full Stack,mern,Stackoverflow-Clone-Frontend,Mayank0255,https://github.com/Mayank0255/Stackoverflow-Clone-Frontend,JavaScript,565
+Full Stack,mern,mern-boilerplate,nemanjam,https://github.com/nemanjam/mern-boilerplate,JavaScript,507
+Full Stack,mern,MERN-E-Commerce-Store,HuXn-WebDev,https://github.com/HuXn-WebDev/MERN-E-Commerce-Store,JavaScript,422
+Full Stack,mern,TypeScript-MERN-Starter,shanhuiyang,https://github.com/shanhuiyang/TypeScript-MERN-Starter,TypeScript,392
+Full Stack,mern,cinema-plus,georgesimos,https://github.com/georgesimos/cinema-plus,JavaScript,381
+Full Stack,mern,Internship-LMS-FrontEnd,praveenscience,https://github.com/praveenscience/Internship-LMS-FrontEnd,HTML,356
+Full Stack,mern,pro-mern-stack,vasansr,https://github.com/vasansr/pro-mern-stack,JavaScript,353
+Full Stack,mern,mernboilerplate-antd,foyzulkarim,https://github.com/foyzulkarim/mernboilerplate-antd,JavaScript,339
+Full Stack,mern,iCinema,orifmilod,https://github.com/orifmilod/iCinema,JavaScript,332
+Full Stack,mern,mern-ecommerce,RishiBakshii,https://github.com/RishiBakshii/mern-ecommerce,JavaScript,324
+Full Stack,mean,spruce,dan-divy,https://github.com/dan-divy/spruce,SCSS,508
+Full Stack,mean,Celtrix,celtrix-os,https://github.com/celtrix-os/Celtrix,JavaScript,172
+Full Stack,mean,mean-docker,nitin27may,https://github.com/nitin27may/mean-docker,HTML,118
+Full Stack,mean,mean-stack-angular5-crud,didinj,https://github.com/didinj/mean-stack-angular5-crud,TypeScript,104
+Full Stack,mean,HADailySensor,jeroenterheerdt,https://github.com/jeroenterheerdt/HADailySensor,Python,101
+Full Stack,mean,loowid,loowid,https://github.com/loowid/loowid,JavaScript,91
+Full Stack,mean,PlacementMNIT,Pankajtanwarbanna,https://github.com/Pankajtanwarbanna/PlacementMNIT,JavaScript,79
+Full Stack,mean,mean-stack-angular6-crud-example,didinj,https://github.com/didinj/mean-stack-angular6-crud-example,TypeScript,67
+Full Stack,mean,express-mvc,basemkhirat,https://github.com/basemkhirat/express-mvc,JavaScript,52
+Full Stack,mean,tutorial-crud-mean,glaucia86,https://github.com/glaucia86/tutorial-crud-mean,TypeScript,49
+Full Stack,mean,mean-angular4-chat-app,didinj,https://github.com/didinj/mean-angular4-chat-app,TypeScript,44
+Full Stack,mean,systers.github.io,systers,https://github.com/systers/systers.github.io,TypeScript,41
+Full Stack,mean,tablespoon,alexhallam,https://github.com/alexhallam/tablespoon,Python,40
+Full Stack,mean,Laplacian-Mesh-Smoothing,germain-hug,https://github.com/germain-hug/Laplacian-Mesh-Smoothing,C++,39
+Full Stack,mean,nodeJS_examples,jakblak,https://github.com/jakblak/nodeJS_examples,JavaScript,34
+Full Stack,mean,Mrittik-Server,hbkabir004,https://github.com/hbkabir004/Mrittik-Server,JavaScript,32
+Full Stack,mean,StickerApp,Glimpse,https://github.com/Glimpse/StickerApp,JavaScript,31
+Full Stack,mean,MEAN-stack-authentication,leota,https://github.com/leota/MEAN-stack-authentication,TypeScript,29
+Full Stack,mean,QuizApp,cstodor,https://github.com/cstodor/QuizApp,TypeScript,27
+Full Stack,mean,MEAN-skeleton,arbazsiddiqui,https://github.com/arbazsiddiqui/MEAN-skeleton,JavaScript,26
+Full Stack,mevn,Veniqa,Viveckh,https://github.com/Viveckh/Veniqa,JavaScript,1189
+Full Stack,mevn,mevn-cli,madlabsinc,https://github.com/madlabsinc/mevn-cli,JavaScript,829
+Full Stack,mevn,Vue-ShoppingCart,ikismail,https://github.com/ikismail/Vue-ShoppingCart,Vue,258
+Full Stack,mevn,mevn-boilerplate,mustafacagri,https://github.com/mustafacagri/mevn-boilerplate,Vue,246
+Full Stack,mevn,node-vue-chat,luvuong-le,https://github.com/luvuong-le/node-vue-chat,Vue,116
+Full Stack,mevn,full-stack-twitter-clone,cihat,https://github.com/cihat/full-stack-twitter-clone,Vue,108
+Full Stack,mevn,twitter-clone,Abdullah-V,https://github.com/Abdullah-V/twitter-clone,Vue,57
+Full Stack,mevn,mevn-stack-vue-2,didinj,https://github.com/didinj/mevn-stack-vue-2,JavaScript,39
+Full Stack,mevn,Vue-Notes-App,yTakkar,https://github.com/yTakkar/Vue-Notes-App,Vue,27
+Full Stack,mevn,vue-stack,samuelnovaes,https://github.com/samuelnovaes/vue-stack,JavaScript,26
+Full Stack,mevn,pollr,vanderkilu,https://github.com/vanderkilu/pollr,Vue,22
+Full Stack,mevn,vite-fullstack,y-essine,https://github.com/y-essine/vite-fullstack,JavaScript,20
+Full Stack,mevn,mevn-crud-tasks,FaztWeb,https://github.com/FaztWeb/mevn-crud-tasks,Vue,18
+Full Stack,mevn,vueexpress,jaouadballat,https://github.com/jaouadballat/vueexpress,Vue,15
+Full Stack,mevn,Smiler,Darkzarich,https://github.com/Darkzarich/Smiler,TypeScript,11
+Full Stack,mevn,MEVN-Boilerplate,Daniel-Knights,https://github.com/Daniel-Knights/MEVN-Boilerplate,JavaScript,10
+Full Stack,mevn,vue-mongodb-template,ScaleDynamics,https://github.com/ScaleDynamics/vue-mongodb-template,Vue,8
+Full Stack,mevn,vue-blog,kravchenkoegor,https://github.com/kravchenkoegor/vue-blog,JavaScript,7
+Full Stack,mevn,osu-guess-the-map,irevenko,https://github.com/irevenko/osu-guess-the-map,JavaScript,7
+Full Stack,mevn,employee-manage-system,futuresea-626010,https://github.com/futuresea-626010/employee-manage-system,Vue,6
+Full Stack,full-stack,nuxt,nuxt,https://github.com/nuxt/nuxt,TypeScript,60815
+Full Stack,full-stack,full-stack-fastapi-template,fastapi,https://github.com/fastapi/full-stack-fastapi-template,TypeScript,45355
+Full Stack,full-stack,open-saas,wasp-lang,https://github.com/wasp-lang/open-saas,MDX,15713
+Full Stack,full-stack,frappe,frappe,https://github.com/frappe/frappe,Python,10692
+Full Stack,full-stack,framework,nuxt,https://github.com/nuxt/framework,Unknown,10429
+Full Stack,full-stack,highlight,highlight,https://github.com/highlight/highlight,TypeScript,9372
+Full Stack,full-stack,growth-ebook,phodal,https://github.com/phodal/growth-ebook,HTML,7805
+Full Stack,full-stack,generator-angular-fullstack,angular-fullstack,https://github.com/angular-fullstack/generator-angular-fullstack,JavaScript,6090
+Full Stack,full-stack,vike,vikejs,https://github.com/vikejs/vike,TypeScript,5816
+Full Stack,full-stack,bud,livebud,https://github.com/livebud/bud,JavaScript,5585
+Full Stack,full-stack,roadmaps,WeMakeDevs,https://github.com/WeMakeDevs/roadmaps,Unknown,4065
+Full Stack,full-stack,awesome-stacks,stackshareio,https://github.com/stackshareio/awesome-stacks,JavaScript,3920
+Full Stack,full-stack,peppermint,Peppermint-Lab,https://github.com/Peppermint-Lab/peppermint,TypeScript,3160
+Full Stack,full-stack,pagoda,mikestefanello,https://github.com/mikestefanello/pagoda,Go,2953
+Full Stack,full-stack,fullstackpython.com,mattmakai,https://github.com/mattmakai/fullstackpython.com,HTML,2950
+Full Stack,full-stack,checkcle,operacle,https://github.com/operacle/checkcle,Go,2949
+Full Stack,full-stack,reactGo,reactGo,https://github.com/reactGo/reactGo,TypeScript,2789
+Full Stack,full-stack,Full-stack-Developer-Interview-Questions-and-Answers,indy256,https://github.com/indy256/Full-stack-Developer-Interview-Questions-and-Answers,Unknown,2739
+Full Stack,full-stack,code-nav,liyupi,https://github.com/liyupi/code-nav,JavaScript,2733
+Full Stack,full-stack,Serenity,serenity-is,https://github.com/serenity-is/Serenity,C#,2693
+Full Stack,web-development,remix,remix-run,https://github.com/remix-run/remix,TypeScript,33354
+Full Stack,web-development,css-protips,AllThingsSmitty,https://github.com/AllThingsSmitty/css-protips,Unknown,30263
+Full Stack,web-development,HEAD,joshbuchea,https://github.com/joshbuchea/HEAD,Unknown,30261
+Full Stack,web-development,Rocket,rwf2,https://github.com/rwf2/Rocket,Rust,25780
+Full Stack,web-development,responsively-app,responsively-org,https://github.com/responsively-org/responsively-app,TypeScript,25150
+Full Stack,web-development,SpacetimeDB,clockworklabs,https://github.com/clockworklabs/SpacetimeDB,Rust,25090
+Full Stack,web-development,actix-web,actix,https://github.com/actix/actix-web,Rust,24819
+Full Stack,web-development,Front-End-Performance-Checklist,thedaviddias,https://github.com/thedaviddias/Front-End-Performance-Checklist,Unknown,17329
+Full Stack,web-development,content,mdn,https://github.com/mdn/content,Markdown,10967
+Full Stack,web-development,top-javascript-interview-questions,greatfrontend,https://github.com/greatfrontend/top-javascript-interview-questions,MDX,9987
+Full Stack,web-development,http-prompt,httpie,https://github.com/httpie/http-prompt,Python,9108
+Full Stack,web-development,webstudio,webstudio-is,https://github.com/webstudio-is/webstudio,TypeScript,8895
+Full Stack,web-development,fine-uploader,FineUploader,https://github.com/FineUploader/fine-uploader,JavaScript,8139
+Full Stack,web-development,web-development-resources,markodenic,https://github.com/markodenic/web-development-resources,JavaScript,8085
+Full Stack,web-development,p1xt-guides,P1xt,https://github.com/P1xt/p1xt-guides,Unknown,7185
+Full Stack,web-development,must-watch-javascript,AllThingsSmitty,https://github.com/AllThingsSmitty/must-watch-javascript,Unknown,7137
+Full Stack,web-app,gatsby,gatsbyjs,https://github.com/gatsbyjs/gatsby,JavaScript,55940
+Full Stack,web-app,dash,plotly,https://github.com/plotly/dash,Python,24394
+Full Stack,web-app,marimo,marimo-team,https://github.com/marimo-team/marimo,Python,22629
+Full Stack,web-app,wasp,wasp-lang,https://github.com/wasp-lang/wasp,TypeScript,18718
+Full Stack,web-app,vux,airyland,https://github.com/airyland/vux,Vue,17460
+Full Stack,web-app,WebFundamentals,google,https://github.com/google/WebFundamentals,JavaScript,13871
+Full Stack,web-app,docker-pi-hole,pi-hole,https://github.com/pi-hole/docker-pi-hole,Shell,11529
+Full Stack,web-app,phpmyadmin,phpmyadmin,https://github.com/phpmyadmin/phpmyadmin,PHP,7923
+Full Stack,web-app,low-level-design-primer,prasadgujar,https://github.com/prasadgujar/low-level-design-primer,Unknown,7908
+Full Stack,web-app,jspaint,1j01,https://github.com/1j01/jspaint,JavaScript,7868
+Full Stack,web-app,shiny,rstudio,https://github.com/rstudio/shiny,R,5682
+Full Stack,web-app,intercooler-js,bigskysoftware,https://github.com/bigskysoftware/intercooler-js,HTML,4782
+Full Stack,web-app,strider,Strider-CD,https://github.com/Strider-CD/strider,JavaScript,4567
+Full Stack,web-app,web.dev,GoogleChrome,https://github.com/GoogleChrome/web.dev,Nunjucks,3615
+Full Stack,web-app,Bastillion,bastillion-io,https://github.com/bastillion-io/Bastillion,Java,3542
+Full Stack,web-app,vonic,wangdahoo,https://github.com/wangdahoo/vonic,Vue,3378
+Full Stack,web-app,my-mind,ondras,https://github.com/ondras/my-mind,TypeScript,3366
+Full Stack,web-app,awesome-no-login-web-apps,aviaryan,https://github.com/aviaryan/awesome-no-login-web-apps,Shell,3346
+Full Stack,web-app,insect,sharkdp,https://github.com/sharkdp/insect,PureScript,3168
+Full Stack,web-app,lowdefy,lowdefy,https://github.com/lowdefy/lowdefy,JavaScript,3005
+Full Stack,crud,appsmith,appsmithorg,https://github.com/appsmithorg/appsmith,TypeScript,40809
+Full Stack,crud,refine,refinedev,https://github.com/refinedev/refine,TypeScript,35620
+Full Stack,crud,nocobase,nocobase,https://github.com/nocobase/nocobase,TypeScript,24016
+Full Stack,crud,APIJSON,Tencent,https://github.com/Tencent/APIJSON,Java,18406
+Full Stack,crud,library,ddd-by-examples,https://github.com/ddd-by-examples/library,Java,5855
+Full Stack,crud,Flask-AppBuilder,dpgaspar,https://github.com/dpgaspar/Flask-AppBuilder,Python,4957
+Full Stack,crud,prest,prest,https://github.com/prest/prest,Go,4614
+Full Stack,crud,nestjs-boilerplate,brocoders,https://github.com/brocoders/nestjs-boilerplate,TypeScript,4383
+Full Stack,crud,crud,nestjsx,https://github.com/nestjsx/crud,TypeScript,4321
+Full Stack,crud,php-crud-api,mevdschee,https://github.com/mevdschee/php-crud-api,PHP,3738
+Full Stack,crud,remult,remult,https://github.com/remult/remult,TypeScript,3208
+Full Stack,crud,redux-orm,redux-orm,https://github.com/redux-orm/redux-orm,JavaScript,2931
+Full Stack,crud,golang-gin-realworld-example-app,gothinkster,https://github.com/gothinkster/golang-gin-realworld-example-app,Go,2717
+Full Stack,crud,sqlite_orm,fnc12,https://github.com/fnc12/sqlite_orm,C++,2694
+Full Stack,crud,FISCO-BCOS,FISCO-BCOS,https://github.com/FISCO-BCOS/FISCO-BCOS,C++,2602
+Full Stack,crud,django-material,viewflow,https://github.com/viewflow/django-material,JavaScript,2540
+Full Stack,crud,cool-admin-vue,cool-team-official,https://github.com/cool-team-official/cool-admin-vue,Vue,2447
+Full Stack,crud,avue,nmxiaowei,https://github.com/nmxiaowei/avue,JavaScript,2304
+Full Stack,crud,SpringBootCodeGenerator,moshowgame,https://github.com/moshowgame/SpringBootCodeGenerator,Java,2208
+Full Stack,rest-api,hoppscotch,hoppscotch,https://github.com/hoppscotch/hoppscotch,TypeScript,80185
+Full Stack,rest-api,nocodb,nocodb,https://github.com/nocodb/nocodb,TypeScript,64816
+Full Stack,rest-api,bruno,usebruno,https://github.com/usebruno/bruno,JavaScript,46735
+Full Stack,rest-api,fiber,gofiber,https://github.com/gofiber/fiber,Go,40124
+Full Stack,rest-api,insomnia,Kong,https://github.com/Kong/insomnia,TypeScript,39984
+Full Stack,rest-api,cli,httpie,https://github.com/httpie/cli,Python,38478
+Full Stack,rest-api,ntfy,binwiederhier,https://github.com/binwiederhier/ntfy,Go,33990
+Full Stack,rest-api,go-zero,zeromicro,https://github.com/zeromicro/go-zero,Go,33303
+Full Stack,rest-api,graphql-engine,hasura,https://github.com/hasura/graphql-engine,TypeScript,32108
+Full Stack,rest-api,swagger-ui,swagger-api,https://github.com/swagger-api/swagger-ui,JavaScript,28998
+Full Stack,rest-api,openapi-generator,OpenAPITools,https://github.com/OpenAPITools/openapi-generator,Java,26721
+Full Stack,rest-api,api-guidelines,microsoft,https://github.com/microsoft/api-guidelines,Unknown,23331
+Full Stack,rest-api,chi,go-chi,https://github.com/go-chi/chi,Go,22774
+Full Stack,rest-api,parse-server,parse-community,https://github.com/parse-community/parse-server,JavaScript,21414
+Full Stack,rest-api,gofr,gofr-dev,https://github.com/gofr-dev/gofr,Go,20951
+Full Stack,rest-api,grpc-gateway,grpc-ecosystem,https://github.com/grpc-ecosystem/grpc-gateway,Go,19994
+Full Stack,rest-api,swagger-codegen,swagger-api,https://github.com/swagger-api/swagger-codegen,Mustache,17786
+Full Stack,rest-api,scalar,scalar,https://github.com/scalar/scalar,TypeScript,16045
+Full Stack,rest-api,public-api-lists,public-api-lists,https://github.com/public-api-lists/public-api-lists,Unknown,15716
+Full Stack,rest-api,modular-monolith-with-ddd,kgrzybek,https://github.com/kgrzybek/modular-monolith-with-ddd,C#,13996
+Full Stack,graphql,twenty,twentyhq,https://github.com/twentyhq/twenty,TypeScript,56156
+Full Stack,graphql,query,TanStack,https://github.com/TanStack/query,TypeScript,50257
+Full Stack,graphql,payload,payloadcms,https://github.com/payloadcms/payload,TypeScript,44561
+Full Stack,graphql,directus,directus,https://github.com/directus/directus,TypeScript,37698
+Full Stack,graphql,hey-1,slymnoyann,https://github.com/slymnoyann/hey-1,TypeScript,29377
+Full Stack,graphql,react-admin,marmelab,https://github.com/marmelab/react-admin,TypeScript,26917
+Full Stack,graphql,rxdb,pubkey,https://github.com/pubkey/rxdb,TypeScript,23372
+Full Stack,graphql,saleor,saleor,https://github.com/saleor/saleor,Python,23287
+Full Stack,graphql,graphql-js,graphql,https://github.com/graphql/graphql-js,TypeScript,20343
+Full Stack,graphql,apollo-client,apollographql,https://github.com/apollographql/apollo-client,TypeScript,19812
+Full Stack,graphql,yaak,mountain-loop,https://github.com/mountain-loop/yaak,TypeScript,19153
+Database,mysql,JavaGuide,Snailclimb,https://github.com/Snailclimb/JavaGuide,JavaScript,158249
+Database,mysql,mall,macrozheng,https://github.com/macrozheng/mall,Java,84703
+Database,mysql,grafana,grafana,https://github.com/grafana/grafana,TypeScript,76564
+Database,mysql,dbeaver,dbeaver,https://github.com/dbeaver/dbeaver,Java,51643
+Database,mysql,metabase,metabase,https://github.com/metabase/metabase,Clojure,49076
+Database,mysql,gogs,gogs,https://github.com/gogs/gogs,Go,47800
+Database,mysql,tidb,pingcap,https://github.com/pingcap/tidb,Go,40487
+Database,mysql,ruoyi-vue-pro,YunaiV,https://github.com/YunaiV/ruoyi-vue-pro,Java,39119
+Database,mysql,interview_internal_reference,0voice,https://github.com/0voice/interview_internal_reference,Python,37244
+Database,mysql,dokploy,Dokploy,https://github.com/Dokploy/dokploy,TypeScript,37068
+Database,mysql,JavaFamily,AobingJava,https://github.com/AobingJava/JavaFamily,Unknown,36980
+Database,mysql,typeorm,typeorm,https://github.com/typeorm/typeorm,TypeScript,36645
+Database,mysql,drizzle-orm,drizzle-team,https://github.com/drizzle-team/drizzle-orm,TypeScript,35670
+Database,mysql,sequelize,sequelize,https://github.com/sequelize/sequelize,TypeScript,30370
+Database,mysql,redash,getredash,https://github.com/getredash/redash,Python,28781
+Database,postgresql,supabase,supabase,https://github.com/supabase/supabase,TypeScript,108802
+Database,postgresql,maybe,maybe-finance,https://github.com/maybe-finance/maybe,Ruby,54299
+Database,postgresql,cal.diy,calcom,https://github.com/calcom/cal.diy,TypeScript,48124
+Database,postgresql,discourse,discourse,https://github.com/discourse/discourse,Ruby,47783
+Database,postgresql,quivr,The-Vibe-Company,https://github.com/The-Vibe-Company/quivr,Python,39487
+Database,postgresql,drawdb,drawdb-io,https://github.com/drawdb-io/drawdb,JavaScript,39343
+Database,mongodb,meteor,meteor,https://github.com/meteor/meteor,JavaScript,44807
+Database,mongodb,Hello-Python,mouredev,https://github.com/mouredev/Hello-Python,Python,37253
+Database,mongodb,spring-boot-examples,ityouknow,https://github.com/ityouknow/spring-boot-examples,Java,30498
+Database,mongodb,mongo,mongodb,https://github.com/mongodb/mongo,C++,28523
+Database,mongodb,Chat2DB,OtterMind,https://github.com/OtterMind/Chat2DB,Java,28066
+Database,mongodb,mongoose,Automattic,https://github.com/Automattic/mongoose,JavaScript,27475
+Database,mongodb,migrate,golang-migrate,https://github.com/golang-migrate/migrate,Go,18888
+Database,mongodb,dbx,t8y2,https://github.com/t8y2/dbx,Rust,17913
+Database,mongodb,mcp-toolbox,googleapis,https://github.com/googleapis/mcp-toolbox,Go,16307
+Database,mongodb,N-blog,nswbmw,https://github.com/nswbmw/N-blog,JavaScript,15373
+Database,mongodb,NodeBB,NodeBB,https://github.com/NodeBB/NodeBB,JavaScript,15214
+Database,sqlite,codebase-memory-mcp,DeusData,https://github.com/DeusData/codebase-memory-mcp,C,42055
+Database,sqlite,sqlitebrowser,sqlitebrowser,https://github.com/sqlitebrowser/sqlitebrowser,C++,24555
+Database,sqlite,beekeeper-studio,beekeeper-studio,https://github.com/beekeeper-studio/beekeeper-studio,TypeScript,23545
+Database,sqlite,chartdb,chartdb,https://github.com/chartdb/chartdb,TypeScript,22849
+Database,sqlite,sqlc,sqlc-dev,https://github.com/sqlc-dev/sqlc,Go,18237
+Database,sqlite,rqlite,rqlite,https://github.com/rqlite/rqlite,Go,17721
+Database,redis,advanced-java,doocs,https://github.com/doocs/advanced-java,Java,79094
+Database,redis,redis,redis,https://github.com/redis/redis,C,76183
+Database,redis,awesome-cheatsheets,LeCoupa,https://github.com/LeCoupa/awesome-cheatsheets,JavaScript,46425
+Database,redis,postiz-app,gitroomhq,https://github.com/gitroomhq/postiz-app,TypeScript,35433
+Database,redis,AnotherRedisDesktopManager,qishibo,https://github.com/qishibo/AnotherRedisDesktopManager,JavaScript,34717
+Database,redis,dragonfly,dragonflydb,https://github.com/dragonflydb/dragonfly,C++,31320
+Database,redis,celery,celery,https://github.com/celery/celery,Python,28854
+Database,redis,CS-Books,forthespada,https://github.com/forthespada/CS-Books,Unknown,27228
+Database,redis,valkey,valkey-io,https://github.com/valkey-io/valkey,C,27123
+Database,redis,redisson,redisson,https://github.com/redisson/redisson,Java,24383
+Database,redis,proxy_pool,jhao104,https://github.com/jhao104/proxy_pool,Python,23666
+Database,redis,source-code-hunter,doocs,https://github.com/doocs/source-code-hunter,Java,23134
+Database,firebase,appwrite,appwrite,https://github.com/appwrite/appwrite,TypeScript,57274
+Database,firebase,GmsCore,microg,https://github.com/microg/GmsCore,Java,14467
+Database,firebase,react-native-firebase,invertase,https://github.com/invertase/react-native-firebase,TypeScript,12301
+Database,firebase,functions-samples,firebase,https://github.com/firebase/functions-samples,JavaScript,12219
+Database,firebase,quickstart-android,firebase,https://github.com/firebase/quickstart-android,Kotlin,9310
+Database,firebase,nhost,nhost,https://github.com/nhost/nhost,TypeScript,9285
+Database,firebase,flutterfire,firebase,https://github.com/firebase/flutterfire,Dart,9253
+Database,firebase,angularfire,angular,https://github.com/angular/angularfire,TypeScript,7804
+Database,firebase,laf,labring,https://github.com/labring/laf,TypeScript,7555
+Database,firebase,rowy,buildship-ai,https://github.com/buildship-ai/rowy,TypeScript,6839
+Database,firebase,firebase-ios-sdk,firebase,https://github.com/firebase/firebase-ios-sdk,C++,6659
+Database,firebase,wild-workouts-go-ddd-example,ThreeDotsLabs,https://github.com/ThreeDotsLabs/wild-workouts-go-ddd-example,Go,6439
+Database,firebase,material-kit-react,devias-io,https://github.com/devias-io/material-kit-react,TypeScript,5587
+Database,firebase,firebase-js-sdk,firebase,https://github.com/firebase/firebase-js-sdk,TypeScript,5138
+Database,firebase,Fakeflix,Th3Wall,https://github.com/Th3Wall/Fakeflix,JavaScript,4947
+Database,firebase,FirebaseUI-Android,firebase,https://github.com/firebase/FirebaseUI-Android,Kotlin,4805
+Database,firebase,react-firebase-starter,kriasoft,https://github.com/kriasoft/react-firebase-starter,JavaScript,4511
+Database,firebase,chartbrew,chartbrew,https://github.com/chartbrew/chartbrew,JavaScript,4053
+Database,supabase,onlook,onlook-dev,https://github.com/onlook-dev/onlook,TypeScript,26633
+Database,supabase,midday,midday-ai,https://github.com/midday-ai/midday,TypeScript,14950
+Database,supabase,nextjs-subscription-payments,vercel,https://github.com/vercel/nextjs-subscription-payments,TypeScript,7717
+Database,supabase,DeepAudit,lintsinghua,https://github.com/lintsinghua/DeepAudit,Python,6943
+Database,supabase,hexclave,hexclave,https://github.com/hexclave/hexclave,TypeScript,6847
+Database,supabase,git-city,srizzon,https://github.com/srizzon/git-city,TypeScript,5779
+Database,supabase,python-web,mouredev,https://github.com/mouredev/python-web,HTML,4760
+Database,supabase,supabase-js,supabase,https://github.com/supabase/supabase-js,TypeScript,4552
+Database,supabase,OB1,NateBJones-Projects,https://github.com/NateBJones-Projects/OB1,TypeScript,4548
+Database,supabase,triplit,aspen-cloud,https://github.com/aspen-cloud/triplit,TypeScript,3111
+Database,supabase,trystero,dmotz,https://github.com/dmotz/trystero,TypeScript,2728
+Database,supabase,grida,gridaco,https://github.com/gridaco/grida,TypeScript,2629
+Database,supabase,supabase-py,supabase,https://github.com/supabase/supabase-py,Python,2575
+Database,supabase,create-expo-stack,roninoss,https://github.com/roninoss/create-expo-stack,TypeScript,2574
+Database,supabase,agent-skills,supabase,https://github.com/supabase/agent-skills,TypeScript,2571
+Database,supabase,auth,supabase,https://github.com/supabase/auth,Go,2554
+Database,supabase,cli,supabase,https://github.com/supabase/cli,TypeScript,2410
+Database,prisma,trpc,trpc,https://github.com/trpc/trpc,TypeScript,40576
+Database,prisma,create-t3-app,t3-oss,https://github.com/t3-oss/create-t3-app,TypeScript,29104
+Database,prisma,dub,dubinc,https://github.com/dubinc/dub,TypeScript,24662
+Database,prisma,taxonomy,shadcn-ui,https://github.com/shadcn-ui/taxonomy,TypeScript,19290
+Database,prisma,graphql,redwoodjs,https://github.com/redwoodjs/graphql,TypeScript,17605
+Database,prisma,amplication,amplication,https://github.com/amplication/amplication,TypeScript,16012
+Database,prisma,documenso,documenso,https://github.com/documenso/documenso,TypeScript,14875
+Database,prisma,blitz,blitz-js,https://github.com/blitz-js/blitz,TypeScript,14128
+Database,prisma,inbox-zero,elie222,https://github.com/elie222/inbox-zero,TypeScript,12146
+Database,prisma,ghostfolio,ghostfolio,https://github.com/ghostfolio/ghostfolio,TypeScript,9235
+Database,prisma,papermark,papermark,https://github.com/papermark/papermark,TypeScript,9040
+Database,prisma,graphql-playground,graphql,https://github.com/graphql/graphql-playground,TypeScript,8828
+Database,prisma,howtographql,howtographql,https://github.com/howtographql/howtographql,TypeScript,8698
+Database,prisma,workout-cool,Snouzy,https://github.com/Snouzy/workout-cool,TypeScript,8437
+Database,prisma,next-forge,vercel,https://github.com/vercel/next-forge,TypeScript,7666
+Database,prisma,prisma-examples,prisma,https://github.com/prisma/prisma-examples,TypeScript,6648
+JavaScript Frameworks,nextjs,jsoncrack.com,AykutSarac,https://github.com/AykutSarac/jsoncrack.com,TypeScript,44362
+JavaScript Frameworks,nextjs,Open-Assistant,LAION-AI,https://github.com/LAION-AI/Open-Assistant,Python,37398
+JavaScript Frameworks,nextjs,CopilotKit,CopilotKit,https://github.com/CopilotKit/CopilotKit,TypeScript,37180
+JavaScript Frameworks,nextjs,ai-website-cloner-template,JCodesMore,https://github.com/JCodesMore/ai-website-cloner-template,JavaScript,33757
+JavaScript Frameworks,nextjs,swr,vercel,https://github.com/vercel/swr,TypeScript,32475
+JavaScript Frameworks,nextjs,homepage,gethomepage,https://github.com/gethomepage/homepage,JavaScript,32387
+JavaScript Frameworks,vue,vue-element-admin,PanJiaChen,https://github.com/PanJiaChen/vue-element-admin,Vue,90197
+JavaScript Frameworks,vue,marktext,marktext,https://github.com/marktext/marktext,TypeScript,60982
+JavaScript Frameworks,vue,gitea,go-gitea,https://github.com/go-gitea/gitea,Go,57799
+JavaScript Frameworks,vue,element,ElemeFE,https://github.com/ElemeFE/element,Vue,54056
+JavaScript Frameworks,vue,lx-music-desktop,lyswhut,https://github.com/lyswhut/lx-music-desktop,TypeScript,53300
+JavaScript Frameworks,vue,ionic-framework,ionic-team,https://github.com/ionic-team/ionic-framework,TypeScript,52640
+JavaScript Frameworks,vue,slidev,slidevjs,https://github.com/slidevjs/slidev,TypeScript,48410
+JavaScript Frameworks,vue,uni-app,dcloudio,https://github.com/dcloudio/uni-app,JavaScript,41603
+JavaScript Frameworks,vue,vuetify,vuetifyjs,https://github.com/vuetifyjs/vuetify,TypeScript,41039
+JavaScript Frameworks,vue,vue2-elm,bailicangdu,https://github.com/bailicangdu/vue2-elm,Vue,41014
+JavaScript Frameworks,vue,tiptap,ueberdosis,https://github.com/ueberdosis/tiptap,TypeScript,38252
+JavaScript Frameworks,nuxt,next-auth,nextauthjs,https://github.com/nextauthjs/next-auth,TypeScript,28362
+JavaScript Frameworks,nuxt,primevue,primefaces,https://github.com/primefaces/primevue,Vue,14459
+JavaScript Frameworks,nuxt,bootstrap-vue,bootstrap-vue,https://github.com/bootstrap-vue/bootstrap-vue,JavaScript,14428
+JavaScript Frameworks,nuxt,vue-storefront,vuestorefront,https://github.com/vuestorefront/vue-storefront,Unknown,10940
+JavaScript Frameworks,nuxt,doccano,doccano,https://github.com/doccano/doccano,Python,10762
+JavaScript Frameworks,nuxt,Sink,miantiao-me,https://github.com/miantiao-me/Sink,Vue,7078
+JavaScript Frameworks,nuxt,ui,nuxt,https://github.com/nuxt/ui,TypeScript,6877
+JavaScript Frameworks,nuxt,reka-ui,unovue,https://github.com/unovue/reka-ui,Vue,6764
+JavaScript Frameworks,nuxt,awesome,nuxt,https://github.com/nuxt/awesome,Unknown,5530
+JavaScript Frameworks,nuxt,actions-gh-pages,peaceiris,https://github.com/peaceiris/actions-gh-pages,TypeScript,5359
+JavaScript Frameworks,nuxt,webgems,lostdesign,https://github.com/lostdesign/webgems,Vue,5143
+JavaScript Frameworks,nuxt,inspira-ui,unovue,https://github.com/unovue/inspira-ui,Vue,4961
+JavaScript Frameworks,nuxt,unplugin-icons,unplugin,https://github.com/unplugin/unplugin-icons,TypeScript,4934
+JavaScript Frameworks,nuxt,i-hate-regex,geongeorge,https://github.com/geongeorge/i-hate-regex,TypeScript,4558
+JavaScript Frameworks,nuxt,vuefire,vuejs,https://github.com/vuejs/vuefire,TypeScript,3909
+JavaScript Frameworks,nuxt,OpnForm,OpnForm,https://github.com/OpnForm/OpnForm,PHP,3663
+JavaScript Frameworks,nuxt,content,nuxt,https://github.com/nuxt/content,TypeScript,3663
+JavaScript Frameworks,angular,paperless-ngx,paperless-ngx,https://github.com/paperless-ngx/paperless-ngx,Python,44814
+JavaScript Frameworks,angular,sheetjs,SheetJS,https://github.com/SheetJS/sheetjs,Unknown,36336
+JavaScript Frameworks,angular,wails,wailsapp,https://github.com/wailsapp/wails,Go,36124
+JavaScript Frameworks,angular,nx,nrwl,https://github.com/nrwl/nx,TypeScript,29301
+JavaScript Frameworks,angular,javascript-interview-questions,sudheerj,https://github.com/sudheerj/javascript-interview-questions,JavaScript,27626
+JavaScript Frameworks,angular,angular-cli,angular,https://github.com/angular/angular-cli,TypeScript,27021
+JavaScript Frameworks,angular,NativeScript,NativeScript,https://github.com/NativeScript/NativeScript,TypeScript,25635
+JavaScript Frameworks,angular,components,angular,https://github.com/angular/components,TypeScript,25045
+JavaScript Frameworks,angular,javascript-testing-best-practices,goldbergyoni,https://github.com/goldbergyoni/javascript-testing-best-practices,JavaScript,24626
+JavaScript Frameworks,angular,generator-jhipster,jhipster,https://github.com/jhipster/generator-jhipster,TypeScript,22448
+JavaScript Frameworks,angular,CleanArchitecture,jasontaylordev,https://github.com/jasontaylordev/CleanArchitecture,C#,20524
+JavaScript Frameworks,angular,sweetalert2,sweetalert2,https://github.com/sweetalert2/sweetalert2,JavaScript,18104
+JavaScript Frameworks,svelte,union,unionlabs,https://github.com/unionlabs/union,Rust,73815
+JavaScript Frameworks,svelte,cobalt,imputnet,https://github.com/imputnet/cobalt,Svelte,42590
+JavaScript Frameworks,svelte,xyflow,xyflow,https://github.com/xyflow/xyflow,TypeScript,38247
+JavaScript Frameworks,svelte,table,TanStack,https://github.com/TanStack/table,TypeScript,28402
+JavaScript Frameworks,svelte,tabler-icons,tabler,https://github.com/tabler/tabler-icons,JavaScript,21583
+JavaScript Frameworks,svelte,kit,sveltejs,https://github.com/sveltejs/kit,JavaScript,20778
+JavaScript Frameworks,svelte,VERT,VERT-sh,https://github.com/VERT-sh/VERT,Svelte,15512
+JavaScript Frameworks,svelte,harper,Automattic,https://github.com/Automattic/harper,Rust,14945
+JavaScript Frameworks,svelte,mitosis,BuilderIO,https://github.com/BuilderIO/mitosis,TypeScript,14335
+JavaScript Frameworks,svelte,pretty-ts-errors,yoavbls,https://github.com/yoavbls/pretty-ts-errors,TypeScript,14102
+JavaScript Frameworks,svelte,codesandbox-client,codesandbox,https://github.com/codesandbox/codesandbox-client,JavaScript,13639
+JavaScript Frameworks,svelte,openreplay,openreplay,https://github.com/openreplay/openreplay,TypeScript,12659
+JavaScript Frameworks,solidjs,alist,AlistGo,https://github.com/AlistGo/alist,Go,50138
+JavaScript Frameworks,solidjs,Cap,CapSoftware,https://github.com/CapSoftware/Cap,Rust,21608
+JavaScript Frameworks,solidjs,twin.macro,ben-rogerson,https://github.com/ben-rogerson/twin.macro,TypeScript,8028
+JavaScript Frameworks,solidjs,virtual,TanStack,https://github.com/TanStack/virtual,TypeScript,7096
+JavaScript Frameworks,solidjs,solid-start,solidjs,https://github.com/solidjs/solid-start,TypeScript,5917
+JavaScript Frameworks,solidjs,js-lingui,lingui,https://github.com/lingui/js-lingui,TypeScript,5871
+JavaScript Frameworks,solidjs,orpc,middleapi,https://github.com/middleapi/orpc,TypeScript,5578
+JavaScript Frameworks,solidjs,OverlayScrollbars,KingSora,https://github.com/KingSora/OverlayScrollbars,TypeScript,5197
+JavaScript Frameworks,solidjs,metacubexd,MetaCubeX,https://github.com/MetaCubeX/metacubexd,TypeScript,4297
+JavaScript Frameworks,solidjs,vite-plugin-pwa,vite-pwa,https://github.com/vite-pwa/vite-plugin-pwa,TypeScript,4258
+JavaScript Frameworks,solidjs,component-party.dev,matschik,https://github.com/matschik/component-party.dev,TypeScript,3336
+JavaScript Frameworks,solidjs,chatgpt-vercel,ourongxing,https://github.com/ourongxing/chatgpt-vercel,TypeScript,3208
+JavaScript Frameworks,solidjs,ai,TanStack,https://github.com/TanStack/ai,TypeScript,3060
+JavaScript Frameworks,solidjs,trieve,devflowinc,https://github.com/devflowinc/trieve,Rust,2716
+JavaScript Frameworks,solidjs,markdown-to-jsx,quantizor,https://github.com/quantizor/markdown-to-jsx,TypeScript,2385
+JavaScript Frameworks,solidjs,Artalk,ArtalkJS,https://github.com/ArtalkJS/Artalk,Go,2329
+JavaScript Frameworks,astro,astro,withastro,https://github.com/withastro/astro,TypeScript,62262
+JavaScript Frameworks,astro,emdash,emdash-cms,https://github.com/emdash-cms/emdash,TypeScript,12201
+JavaScript Frameworks,astro,usehooks,uidotdev,https://github.com/uidotdev/usehooks,MDX,11507
+JavaScript Frameworks,astro,starlight,withastro,https://github.com/withastro/starlight,TypeScript,9177
+JavaScript Frameworks,astro,chatgpt-demo,anse-app,https://github.com/anse-app/chatgpt-demo,TypeScript,7935
+JavaScript Frameworks,astro,skeleton,skeletonlabs,https://github.com/skeletonlabs/skeleton,TypeScript,6051
+JavaScript Frameworks,astro,astrowind,arthelokyo,https://github.com/arthelokyo/astrowind,Astro,5930
+JavaScript Frameworks,astro,astro-paper,satnaing,https://github.com/satnaing/astro-paper,Astro,5017
+JavaScript Frameworks,astro,fuwari,saicaca,https://github.com/saicaca/fuwari,Astro,4972
+JavaScript Frameworks,astro,GeminiProChat,babaohuang,https://github.com/babaohuang/GeminiProChat,TypeScript,4884
+JavaScript Frameworks,astro,awesome-wasm-langs,appcypher,https://github.com/appcypher/awesome-wasm-langs,Unknown,4441
+JavaScript Frameworks,astro,pagescms,hunvreus,https://github.com/hunvreus/pagescms,TypeScript,3961
+JavaScript Frameworks,astro,moodist,remvze,https://github.com/remvze/moodist,TypeScript,3731
+JavaScript Frameworks,astro,developer-icons,xandemon,https://github.com/xandemon/developer-icons,TypeScript,2624
+JavaScript Frameworks,astro,webtui,webtui,https://github.com/webtui/webtui,MDX,2429
+JavaScript Frameworks,astro,BroadcastChannel,miantiao-me,https://github.com/miantiao-me/BroadcastChannel,CSS,2095
+JavaScript Frameworks,astro,unpic-img,ascorbic,https://github.com/ascorbic/unpic-img,TypeScript,2081
+UI UX,ui,svelte,sveltejs,https://github.com/sveltejs/svelte,JavaScript,88030
+UI UX,ui,imgui,ocornut,https://github.com/ocornut/imgui,C++,76041
+UI UX,ui,unsloth,unslothai,https://github.com/unslothai/unsloth,Python,75559
+UI UX,ui,penpot,penpot,https://github.com/penpot/penpot,Clojure,59544
+UI UX,ui,awesome-android-ui,wasabeef,https://github.com/wasabeef/awesome-android-ui,Unknown,57450
+UI UX,ui,Semantic-UI,Semantic-Org,https://github.com/Semantic-Org/Semantic-UI,JavaScript,51018
+UI UX,ui,dioxus,DioxusLabs,https://github.com/DioxusLabs/dioxus,Rust,38958
+UI UX,ui,portainer,portainer,https://github.com/portainer/portainer,TypeScript,38421
+UI UX,ui,editor.js,codex-team,https://github.com/codex-team/editor.js,TypeScript,31927
+UI UX,ui,Sortable,SortableJS,https://github.com/SortableJS/Sortable,JavaScript,31176
+UI UX,ui,recharts,recharts,https://github.com/recharts/recharts,TypeScript,27536
+UI UX,ui,react-native-elements,react-native-elements,https://github.com/react-native-elements/react-native-elements,MDX,25859
+UI UX,ui,lvgl,lvgl,https://github.com/lvgl/lvgl,C,24578
+UI UX,ux,react-hook-form,react-hook-form,https://github.com/react-hook-form/react-hook-form,TypeScript,44847
+UI UX,ux,server,nextcloud,https://github.com/nextcloud/server,PHP,36695
+UI UX,ux,intro.js,usablica,https://github.com/usablica/intro.js,TypeScript,23457
+UI UX,ux,awesome-design,gztchan,https://github.com/gztchan/awesome-design,Unknown,17486
+UI UX,ux,shoelace,shoelace-style,https://github.com/shoelace-style/shoelace,TypeScript,13846
+UI UX,ux,Material,CosmicMind,https://github.com/CosmicMind/Material,Swift,12010
+UI UX,ux,bootstrap-select,snapappointments,https://github.com/snapappointments/bootstrap-select,JavaScript,9818
+UI UX,ux,clarity,vmware-archive,https://github.com/vmware-archive/clarity,TypeScript,6393
+UI UX,ux,Akira,akiraux,https://github.com/akiraux/Akira,Vala,5338
+UI UX,ux,open-ui,openui,https://github.com/openui/open-ui,MDX,4517
+UI UX,ux,medium-zoom,francoischalifour,https://github.com/francoischalifour/medium-zoom,JavaScript,3941
+UI UX,ux,project_modern_ui_ux_gpt3,adrianhajdin,https://github.com/adrianhajdin/project_modern_ui_ux_gpt3,CSS,3839
+UI UX,ux,panelkit,louisdh,https://github.com/louisdh/panelkit,Swift,3740
+UI UX,ux,arrow-js,standardagents,https://github.com/standardagents/arrow-js,TypeScript,3731
+UI UX,ux,Spotlight,TakuSemba,https://github.com/TakuSemba/Spotlight,Kotlin,3667
+UI UX,ux,transitions.dev,Jakubantalik,https://github.com/Jakubantalik/transitions.dev,HTML,3464
+UI UX,ux,awesome-product-design,ttt30ga,https://github.com/ttt30ga/awesome-product-design,Unknown,2700
+UI UX,ux,thinking-orbs,Jakubantalik,https://github.com/Jakubantalik/thinking-orbs,TypeScript,2649
+UI UX,ux,web-vitals-extension,GoogleChrome,https://github.com/GoogleChrome/web-vitals-extension,CSS,2380
+UI UX,ux,ReaLTaiizor,Taiizor,https://github.com/Taiizor/ReaLTaiizor,C#,2262
+UI UX,dashboard,worldmonitor,koala73,https://github.com/koala73/worldmonitor,TypeScript,85479
+UI UX,dashboard,pi-hole,pi-hole,https://github.com/pi-hole/pi-hole,Shell,60737
+UI UX,dashboard,tabler,tabler,https://github.com/tabler/tabler,Astro,41611
+UI UX,dashboard,ant-design-pro,ant-design,https://github.com/ant-design/ant-design-pro,TypeScript,38735
+UI UX,dashboard,glance,glanceapp,https://github.com/glanceapp/glance,Go,36812
+UI UX,dashboard,chatwoot,chatwoot,https://github.com/chatwoot/chatwoot,Ruby,36464
+UI UX,dashboard,reflex,reflex-dev,https://github.com/reflex-dev/reflex,Python,28873
+UI UX,dashboard,dashy,lissy93,https://github.com/lissy93/dashy,Vue,26373
+UI UX,dashboard,ngx-admin,akveo,https://github.com/akveo/ngx-admin,TypeScript,25687
+UI UX,dashboard,gentelella,ColorlibHQ,https://github.com/ColorlibHQ/gentelella,HTML,21504
+UI UX,dashboard,goaccess,allinurl,https://github.com/allinurl/goaccess,C,20900
+UI UX,dashboard,activitywatch,ActivityWatch,https://github.com/ActivityWatch/activitywatch,Python,18796
+UI UX,dashboard,plotly.py,plotly,https://github.com/plotly/plotly.py,Python,18760
+UI UX,dashboard,WrenAI,Canner,https://github.com/Canner/WrenAI,Python,17478
+UI UX,admin-panel,shadcn-admin,satnaing,https://github.com/satnaing/shadcn-admin,TypeScript,14108
+UI UX,admin-panel,coreui-free-bootstrap-admin-template,coreui,https://github.com/coreui/coreui-free-bootstrap-admin-template,HTML,12248
+UI UX,admin-panel,vuestic-admin,epicmaxco,https://github.com/epicmaxco/vuestic-admin,Vue,10953
+UI UX,admin-panel,adminjs,SoftwareBrothers,https://github.com/SoftwareBrothers/adminjs,TypeScript,8985
+UI UX,admin-panel,coreui-free-react-admin-template,coreui,https://github.com/coreui/coreui-free-react-admin-template,JavaScript,4951
+UI UX,admin-panel,Adminator-admin-dashboard,puikinsh,https://github.com/puikinsh/Adminator-admin-dashboard,HTML,4647
+UI UX,admin-panel,coreui-free-vue-admin-template,coreui,https://github.com/coreui/coreui-free-vue-admin-template,Vue,3407
+UI UX,admin-panel,next-saas-stripe-starter,mickasmt,https://github.com/mickasmt/next-saas-stripe-starter,TypeScript,3002
+UI UX,admin-panel,next-shadcn-admin-dashboard,arhamkhnz,https://github.com/arhamkhnz/next-shadcn-admin-dashboard,TypeScript,2980
+UI UX,admin-panel,clawpanel,qingchencloud,https://github.com/qingchencloud/clawpanel,JavaScript,2932
+UI UX,admin-panel,horizon-ui-chakra,horizon-ui,https://github.com/horizon-ui/horizon-ui-chakra,JavaScript,2891
+UI UX,admin-panel,Bootstrap-Admin-Template,puikinsh,https://github.com/puikinsh/Bootstrap-Admin-Template,HTML,2838
+UI UX,admin-panel,tailadmin-free-tailwind-dashboard-template,TailAdmin,https://github.com/TailAdmin/tailadmin-free-tailwind-dashboard-template,HTML,2290
+UI UX,admin-panel,laratrust,santigarcor,https://github.com/santigarcor/laratrust,PHP,2274
+UI UX,admin-panel,motor-admin,motor-admin,https://github.com/motor-admin/motor-admin,Ruby,2164
+UI UX,admin-panel,deploy,Aurora-Admin-Panel,https://github.com/Aurora-Admin-Panel/deploy,Shell,1991
+UI UX,landing-page,awesome-design-md,VoltAgent,https://github.com/VoltAgent/awesome-design-md,Unknown,113817
+UI UX,landing-page,kit,HugoBlox,https://github.com/HugoBlox/kit,HTML,9665
+UI UX,landing-page,ant-design-landing,ant-design,https://github.com/ant-design/ant-design-landing,JavaScript,6524
+UI UX,landing-page,Organizr,causefx,https://github.com/causefx/Organizr,PHP,5816
+UI UX,landing-page,open-react-template,cruip,https://github.com/cruip/open-react-template,TypeScript,4697
+UI UX,landing-page,tailwind-landing-page-template,cruip,https://github.com/cruip/tailwind-landing-page-template,TypeScript,4497
+UI UX,landing-page,Next-JS-Landing-Page-Starter-Template,ixartz,https://github.com/ixartz/Next-JS-Landing-Page-Starter-Template,TypeScript,2138
+UI UX,landing-page,react-saas-template,dunky11,https://github.com/dunky11/react-saas-template,JavaScript,1961
+UI UX,landing-page,destack,LiveDuo,https://github.com/LiveDuo/destack,HTML,1835
+UI UX,landing-page,adminlte-laravel,mdbootstrap,https://github.com/mdbootstrap/adminlte-laravel,PHP,1796
+UI UX,landing-page,next-saas-starter,Blazity,https://github.com/Blazity/next-saas-starter,TypeScript,1686
+UI UX,landing-page,page-ui,PageAI-Pro,https://github.com/PageAI-Pro/page-ui,TypeScript,1684
+UI UX,landing-page,startbootstrap-landing-page,StartBootstrap,https://github.com/StartBootstrap/startbootstrap-landing-page,Pug,1672
+UI UX,landing-page,scroll-craft,nateherkai,https://github.com/nateherkai/scroll-craft,JavaScript,1670
+UI UX,landing-page,React-Landing-Page-Template,issaafalkattan,https://github.com/issaafalkattan/React-Landing-Page-Template,JavaScript,1649
+UI UX,landing-page,Web-Development,keshavgbpecdelhi,https://github.com/keshavgbpecdelhi/Web-Development,JavaScript,1579
+UI UX,landing-page,Landing-Page,tailwindtoolbox,https://github.com/tailwindtoolbox/Landing-Page,HTML,1452
+UI UX,landing-page,ScrewFast,mearashadowfax,https://github.com/mearashadowfax/ScrewFast,Astro,1406
+UI UX,portfolio,awesome-github-profile-readme,abhisheknaiidu,https://github.com/abhisheknaiidu/awesome-github-profile-readme,Unknown,30992
+UI UX,portfolio,simplefolio,cobiwave,https://github.com/cobiwave/simplefolio,SCSS,14223
+UI UX,portfolio,hugo-PaperMod,adityatelange,https://github.com/adityatelange/hugo-PaperMod,HTML,13878
+UI UX,portfolio,vcard-personal-portfolio,codewithsadee,https://github.com/codewithsadee/vcard-personal-portfolio,HTML,8074
+UI UX,portfolio,nextjs-notion-starter-kit,transitive-bullshit,https://github.com/transitive-bullshit/nextjs-notion-starter-kit,TypeScript,7031
+UI UX,portfolio,sourcerer-app,sourcerer-io,https://github.com/sourcerer-io/sourcerer-app,Kotlin,6736
+UI UX,portfolio,developerFolio,saadpasta,https://github.com/saadpasta/developerFolio,JavaScript,6620
+UI UX,portfolio,Portfolio,soumyajit4419,https://github.com/soumyajit4419/Portfolio,JavaScript,6472
+UI UX,portfolio,portfolio-ideas,Evavic44,https://github.com/Evavic44/portfolio-ideas,Markdown,6314
+UI UX,portfolio,devportfolio,RyanFitzgerald,https://github.com/RyanFitzgerald/devportfolio,Astro,4963
+UI UX,portfolio,cointop,cointop-sh,https://github.com/cointop-sh/cointop,Go,4394
+UI UX,portfolio,LeetHub,QasimWani,https://github.com/QasimWani/LeetHub,JavaScript,4343
+UI UX,portfolio,masterPortfolio,ashutosh1919,https://github.com/ashutosh1919/masterPortfolio,JavaScript,4222
+UI UX,portfolio,portfolio,portfolio-performance,https://github.com/portfolio-performance/portfolio,Java,4056
+UI UX,portfolio,Dopefolio,rammcodes,https://github.com/rammcodes/Dopefolio,HTML,3743
+UI UX,portfolio,FinRL-Trading,AI4Finance-Foundation,https://github.com/AI4Finance-Foundation/FinRL-Trading,Python,3660
+UI UX,portfolio,atropos,nolimits4web,https://github.com/nolimits4web/atropos,JavaScript,3600
+UI UX,portfolio,portfolio,HamishMW,https://github.com/HamishMW/portfolio,JavaScript,3515
+UI UX,ecommerce,medusa,medusajs,https://github.com/medusajs/medusa,TypeScript,36125
+UI UX,ecommerce,bagisto,bagisto,https://github.com/bagisto/bagisto,PHP,28091
+UI UX,ecommerce,spree,spree,https://github.com/spree/spree,Ruby,15664
+UI UX,ecommerce,commerce,vercel,https://github.com/vercel/commerce,TypeScript,14242
+UI UX,ecommerce,reaction,reactioncommerce,https://github.com/reactioncommerce/reaction,JavaScript,12401
+UI UX,ecommerce,magento2,magento,https://github.com/magento/magento2,PHP,12175
+UI UX,ecommerce,woocommerce,woocommerce,https://github.com/woocommerce/woocommerce,PHP,10485
+UI UX,ecommerce,evershop,evershopcommerce,https://github.com/evershopcommerce/evershop,TypeScript,10436
+UI UX,ecommerce,nopCommerce,nopSolutions,https://github.com/nopSolutions/nopCommerce,C#,10139
+UI UX,ecommerce,PrestaShop,PrestaShop,https://github.com/PrestaShop/PrestaShop,PHP,9201
+UI UX,ecommerce,idurar-erp-crm,idurar,https://github.com/idurar/idurar-erp-crm,JavaScript,8758
+UI UX,ecommerce,aimeos-laravel,aimeos,https://github.com/aimeos/aimeos-laravel,PHP,8694
+UI UX,ecommerce,Sylius,Sylius,https://github.com/Sylius/Sylius,PHP,8522
+UI UX,ecommerce,vendure,vendurehq,https://github.com/vendurehq/vendure,TypeScript,8396
+UI UX,ecommerce,API-mega-list,cporter202,https://github.com/cporter202/API-mega-list,JavaScript,7590
+UI UX,ecommerce,django-oscar,django-oscar,https://github.com/django-oscar/django-oscar,Python,6624
+UI UX,ecommerce,aimeos,aimeos,https://github.com/aimeos/aimeos,JavaScript,5451
+UI UX,ecommerce,solidus,solidusio,https://github.com/solidusio/solidus,Ruby,5324
+UI UX,blog,AppFlowy,AppFlowy-IO,https://github.com/AppFlowy-IO/AppFlowy,Dart,76235
+UI UX,blog,halo,halo-dev,https://github.com/halo-dev/halo,Java,39665
+UI UX,blog,Blog,mqyqingfeng,https://github.com/mqyqingfeng/Blog,Unknown,31075
+UI UX,blog,chinese-independent-blogs,timqian,https://github.com/timqian/chinese-independent-blogs,Python,23868
+UI UX,blog,CS-Interview-Knowledge-Map,InterviewMap,https://github.com/InterviewMap/CS-Interview-Knowledge-Map,Unknown,18250
+UI UX,blog,Halfrost-Field,halfrost,https://github.com/halfrost/Halfrost-Field,Go,13227
+UI UX,blog,typecho,typecho,https://github.com/typecho/typecho,PHP,12433
+UI UX,blog,giscus,giscus,https://github.com/giscus/giscus,TypeScript,12072
+UI UX,blog,NotionNext,notionnext-org,https://github.com/notionnext-org/NotionNext,JavaScript,11795
+UI UX,blog,blog,yygmind,https://github.com/yygmind/blog,Unknown,10599
+UI UX,blog,gridea,getgridea,https://github.com/getgridea/gridea,TypeScript,10245
+UI UX,blog,Game-Programmer-Study-Notes,QianMo,https://github.com/QianMo/Game-Programmer-Study-Notes,Unknown,10030
+UI UX,blog,utterances,utterance,https://github.com/utterance/utterances,TypeScript,9692
+API,swagger,fastapi,fastapi,https://github.com/fastapi/fastapi,Python,102060
+API,swagger,redoc,Redocly,https://github.com/Redocly/redoc,TypeScript,25899
+API,swagger,metersphere,metersphere,https://github.com/metersphere/metersphere,Java,13499
+API,swagger,swag,swaggo,https://github.com/swaggo/swag,Go,13005
+API,swagger,mitmproxy2swagger,alufers,https://github.com/alufers/mitmproxy2swagger,HTML,9596
+API,swagger,swagger-editor,swagger-api,https://github.com/swagger-api/swagger-editor,JavaScript,9463
+API,swagger,django-ninja,vitalik,https://github.com/vitalik/django-ninja,Python,9180
+API,swagger,easy-mock,easy-mock,https://github.com/easy-mock/easy-mock,JavaScript,8961
+API,swagger,oapi-codegen,oapi-codegen,https://github.com/oapi-codegen/oapi-codegen,Go,8557
+API,swagger,RuoYi,yangzongzhuan,https://github.com/yangzongzhuan/RuoYi,HTML,8537
+API,swagger,litestar,litestar-org,https://github.com/litestar-org/litestar,Python,8443
+API,swagger,mockoon,mockoon,https://github.com/mockoon/mockoon,TypeScript,8390
+API,swagger,openapi-typescript,openapi-ts,https://github.com/openapi-ts/openapi-typescript,TypeScript,8348
+API,swagger,swagger-core,swagger-api,https://github.com/swagger-api/swagger-core,Java,7532
+API,swagger,NSwag,RicoSuter,https://github.com/RicoSuter/NSwag,C#,7361
+API,openapi,OpenAPI-Specification,OAI,https://github.com/OAI/OpenAPI-Specification,Markdown,31199
+API,openapi,apisix,apache,https://github.com/apache/apisix,Lua,17076
+API,openapi,fastapi_mcp,tadata-org,https://github.com/tadata-org/fastapi_mcp,Python,11999
+API,openapi,api-platform,api-platform,https://github.com/api-platform/api-platform,PHP,9182
+API,api,public-apis,public-apis,https://github.com/public-apis/public-apis,Python,474892
+API,api,neovim,neovim,https://github.com/neovim/neovim,Vim Script,102092
+API,api,json-server,typicode,https://github.com/typicode/json-server,JavaScript,75698
+API,api,meilisearch,meilisearch,https://github.com/meilisearch/meilisearch,Rust,59173
+API,api,LocalAI,mudler,https://github.com/mudler/LocalAI,Go,48846
+API,api,ccxt,ccxt,https://github.com/ccxt/ccxt,Python,43848
+API,api,GPT_API_free,chatanywhere,https://github.com/chatanywhere/GPT_API_free,Unknown,41751
+API,api,one-api,songquanpeng,https://github.com/songquanpeng/one-api,JavaScript,36716
+API,api,slate,slatedocs,https://github.com/slatedocs/slate,Unknown,36034
+API,api,NeteaseCloudMusicApi,Binaryify,https://github.com/Binaryify/NeteaseCloudMusicApi,Unknown,30267
+API,postman,newman,postmanlabs,https://github.com/postmanlabs/newman,JavaScript,7251
+API,postman,grpcui,fullstorydev,https://github.com/fullstorydev/grpcui,JavaScript,5923
+API,postman,Postman-cn,hlmd,https://github.com/hlmd/Postman-cn,PHP,5642
+API,postman,ATAC,Julien-cpsn,https://github.com/Julien-cpsn/ATAC,Rust,3714
+API,postman,laravel-apidoc-generator,mpociot,https://github.com/mpociot/laravel-apidoc-generator,PHP,3450
+API,postman,apidash,foss42,https://github.com/foss42/apidash,Dart,2891
+API,postman,API,disease-sh,https://github.com/disease-sh/API,JavaScript,2501
+API,postman,yaade,EsperoTech,https://github.com/EsperoTech/yaade,JavaScript,1987
+API,postman,vapi,roottusk,https://github.com/roottusk/vapi,HTML,1349
+API,postman,BERT-NER,kamalkraj,https://github.com/kamalkraj/BERT-NER,Python,1249
+API,postman,httplive,gencebay,https://github.com/gencebay/httplive,Go,1134
+API,postman,awesome-api-clients,stepci,https://github.com/stepci/awesome-api-clients,Unknown,1109
+API,postman,gshark,madneal,https://github.com/madneal/gshark,Go,1055
+API,postman,laravel-api-to-postman,andreaselia,https://github.com/andreaselia/laravel-api-to-postman,PHP,1053
+API,postman,postman-code-generators,postmanlabs,https://github.com/postmanlabs/postman-code-generators,JavaScript,1045
+API,postman,Swell,open-source-labs,https://github.com/open-source-labs/Swell,JavaScript,983
+API,postman,node-express-mongodb-jwt-rest-api-skeleton,davellanedam,https://github.com/davellanedam/node-express-mongodb-jwt-rest-api-skeleton,JavaScript,910
+API,postman,httpyac,AnWeber,https://github.com/AnWeber/httpyac,TypeScript,869
+API,postman,WebDev-DevOps-Cohort-3.0,irohandev,https://github.com/irohandev/WebDev-DevOps-Cohort-3.0,JavaScript,766
